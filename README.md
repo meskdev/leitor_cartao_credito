@@ -56,7 +56,9 @@ Execute a aplicação:
 bash
 streamlit run src/app.py
 🏗️ Estrutura do Projeto
+
 text
+
 azureprojeto2/
 ├── src/
 │   ├── app.py                 # Aplicação principal Streamlit
@@ -67,6 +69,7 @@ azureprojeto2/
 │       └── Config.py          # Configurações e variáveis de ambiente
 ├── requirements.txt           # Dependências do projeto
 └── README.md                 # Documentação
+
 🔧 Configuração Azure
 Azure Blob Storage
 Crie uma Storage Account no Azure Portal
